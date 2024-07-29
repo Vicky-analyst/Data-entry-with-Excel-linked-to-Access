@@ -27,11 +27,17 @@ This Projects contains steps taken to enter Franky's dataset in Excel and how th
 - Linked Database
 - Data modelling
 
-**Data entry with form**
-![](Data_Entry_With_Form.png)
-Nested ifs funtion                 |                    Distint funtion
+Data entry with form               |                    Nested ifs funtion         
 :---------------------------------:|:-------------------------------------:
-![](nested_ifs_in_data_entry.png)  |  ![](unique_funtion_in_data_entry.png)
-Vlookup                            |                   Index and Match     |               Condition Formating
-:---------------------------------:|:-------------------------------------:|:-------------------------------------:
- ![](Vlookup_in_data_entry.png)    | ![](
+![](Data_Entry_With_Form.png)      | ![](nested_ifs_in_data_entry.png) 
+---
+
+ Condition Formating                         |                    Distint funtion
+:-------------------------------------------:|:-------------------------------------:
+ ![](Condition_formatting_in_data_entry.png) |  ![](unique_funtion_in_data_entry.png)
+ ---
+
+Vlookup                            |               Condition Formating
+:---------------------------------:|:-------------------------------------:
+ ![](Vlookup_in_data_entry.png)    | ![](Condition_formatting_in_data_entry.png)
+ ---
