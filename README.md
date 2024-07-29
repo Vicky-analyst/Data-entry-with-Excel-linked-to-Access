@@ -37,9 +37,9 @@ Data entry with form               |                    Condition Formating
  ![](nested_ifs_in_data_entry.png) |  ![](unique_funtion_in_data_entry.png)
  ---
 
- Index and Match                   |                             Vlookup         
-:---------------------------------:|:-------------------------------------:
-![](index_match_in_data_entry.png) | ![](Vlookup_in_data_entry.png)    
+ Index and Match                    |                             Vlookup         
+:----------------------------------:|:-------------------------------------:
+![](index_match_in_data_entry.png)  |   ![](Vlookup_in_data_entry.png)    
  ---
 ### Connected Database
 
