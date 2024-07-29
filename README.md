@@ -31,5 +31,7 @@ This Projects contains steps taken to enter Franky's dataset in Excel and how th
 ![](Data_Entry_With_Form.png)
 Nested ifs funtion                 |                    Distint funtion
 :---------------------------------:|:-------------------------------------:
-![](nested_ifs_in_data_entry.png)    ![](unique_funtion_in_data_entry.png)
-
+![](nested_ifs_in_data_entry.png)  |  ![](unique_funtion_in_data_entry.png)
+Vlookup                            |                   Index and Match     |               Condition Formating
+:---------------------------------:|:-------------------------------------:|:-------------------------------------:
+ ![](Vlookup_in_data_entry.png)    | ![](
