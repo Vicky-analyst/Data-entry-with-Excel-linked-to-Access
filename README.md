@@ -41,3 +41,5 @@ Vlookup                            |                    Index and Match
 :---------------------------------:|:-------------------------------------:
  ![](Vlookup_in_data_entry.png)    | ![](Condition_formatting_in_data_entry.png)
  ---
+### Connected Database
+
