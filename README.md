@@ -37,7 +37,7 @@ Data entry with form               |                    Nested ifs funtion
  ![](Condition_formatting_in_data_entry.png) |  ![](unique_funtion_in_data_entry.png)
  ---
 
-Vlookup                            |               Condition Formating
+Vlookup                            |                    Index and Match          
 :---------------------------------:|:-------------------------------------:
  ![](Vlookup_in_data_entry.png)    | ![](Condition_formatting_in_data_entry.png)
  ---
