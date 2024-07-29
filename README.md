@@ -43,3 +43,21 @@ Data entry with form               |                    Condition Formating
  ---
 ### Connected Database
 
+The connected Database by a file "Franky's Tech Hub" allow for easy process of result, prevent duplication of data and new information is reflected in the connected Database system
+
+![](linked_with_excel.png)
+
+to react with the data click here
+- [Excel](Franky's_tech_hub_records.xlsx)
+- [Access](Franky's_tech_hub.accdb)
+
+### Data Modelling
+the model used to create relationship of the data is **Relation Data Model**. this model delineate the one to many relationship and was fashioned in Access Database System
+
+![](Data_modelling_with_a_linked_file.png)
+
+### Conculsion
+
+Due to complex funtionality Access comes in handy in keeping the file organized, maintaining Data integrity while being avaliable to multiple simutaneous users. it enable business and enterprise user to manage data ana analyse vast amount of information efficiently
+
+
